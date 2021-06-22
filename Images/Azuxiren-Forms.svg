@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Azuxiren-Forms.svg"
+   inkscape:export-filename="/home/leadguy/Documents/Azuxiren/Azuxiren-Forms.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-6.354579 : 92.314841 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="200.65993 : 126.912 : 1"
+       inkscape:persp3d-origin="132.9266 : 104.33422 : 1"
+       id="perspective4718" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5898437"
+     inkscape:cx="212.83654"
+     inkscape:cy="310.06602"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true"
+     inkscape:snap-perpendicular="true"
+     gridtolerance="10000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3713" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Background"
+     style="display:inline">
+    <path
+       transform="translate(0,-161.53332)"
+       style="display:inline;fill:#62f0ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.96862745"
+       d="M 91.281249,181.90624 H 133.61458 L 127,191.16665 H 95.249999 Z"
+       id="path4774"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="translate(0,-161.53332)"
+       style="display:inline;fill:#62f0ff;stroke:none;stroke-width:0.30217543px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.96862745"
+       d="m 100.54167,209.68749 h 33.07291 l -5.75181,7.9375 h -27.3211 z"
+       id="path4776"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:0.33751094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 13.389148,259.53376 91.016666,195.40667 V 181.90624 L -0.11128801,259.53376 Z"
+       id="path4662"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#008b83;fill-opacity:1;stroke:none;stroke-width:0.33751094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.016666,181.90624 4.275768,7.99104 5.849536,12.25961 -10.125304,-6.75022 z"
+       id="path4664"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00bcd4;fill-opacity:1;stroke:none;stroke-width:0.33751094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.016666,195.40667 v 64.12709 h 10.125304 v -57.37687 z"
+       id="path4668"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#62efff;fill-opacity:0.96862745;stroke:none;stroke-width:0.33751094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.016666,259.53376 -39.947989,-58.22007 19.697332,16.0312 20.250657,25.31331 z"
+       id="path4670"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#008b83;fill-opacity:1;stroke:none;stroke-width:0.33751094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.016666,242.6582 10.125304,10.12533 v 6.75023 H 91.016666 v -16.87556 0 0 0"
+       id="path4672"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.36199284px;line-height:1.25;font-family:'Telephasic BRK';-inkscape-font-specification:'Telephasic BRK';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28404984"
+       x="11.283237"
+       y="123.73161"
+       id="text4684"><tspan
+         sodipodi:role="line"
+         id="tspan4682"
+         x="11.283237"
+         y="123.73161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.17918968px;font-family:'Telephasic BRK';-inkscape-font-specification:'Telephasic BRK';stroke-width:0.28404984">AzuxForms</tspan></text>
+  </g>
+</svg>

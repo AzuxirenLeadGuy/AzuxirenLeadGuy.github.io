@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Azuxiren.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-6.354579 : 92.314841 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="200.65993 : 126.912 : 1"
+       inkscape:persp3d-origin="132.9266 : 104.33422 : 1"
+       id="perspective4718" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1241893"
+     inkscape:cx="328.56249"
+     inkscape:cy="227.87636"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true"
+     inkscape:snap-perpendicular="true"
+     gridtolerance="10000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3713" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Background"
+     style="display:inline" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)">
+    <path
+       style="fill:#283593;fill-opacity:1;stroke:none;stroke-width:0.44812769px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 18.424301,269.68066 121.49367,184.53638 V 166.61129 L 0.49919233,269.68066 Z"
+       id="path4662"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#001064;fill-opacity:1;stroke:none;stroke-width:0.44812769px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.49367,166.61129 5.67712,10.61003 7.76671,16.27763 -13.44383,-8.96257 z"
+       id="path4664"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#283593;fill-opacity:1;stroke:none;stroke-width:0.44812769px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.49367,184.53638 v 85.14428 h 13.44383 v -76.18171 z"
+       id="path4668"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#5f5fc4;fill-opacity:0.96862745;stroke:none;stroke-width:0.44812769px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.49367,269.68066 -53.040651,-77.30128 26.152991,21.28531 26.88766,33.60957 z"
+       id="path4670"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#001064;fill-opacity:1;stroke:none;stroke-width:0.44812769px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.49367,247.27426 13.44383,13.44383 v 8.96257 h -13.44383 v -22.4064 0 0 0"
+       id="path4672"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.67348194px;line-height:1.25;font-family:'Telephasic BRK';-inkscape-font-specification:'Telephasic BRK';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34183705"
+       x="14.318703"
+       y="128.13239"
+       id="text4684"><tspan
+         sodipodi:role="line"
+         id="tspan4682"
+         x="14.318703"
+         y="128.13239"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.87757111px;font-family:'Telephasic BRK';-inkscape-font-specification:'Telephasic BRK';stroke-width:0.34183705">Azuxiren</tspan></text>
+  </g>
+</svg>
