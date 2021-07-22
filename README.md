@@ -22,8 +22,3 @@ As described in its Readme.md
 > A .NET library intended to make coding a bit more towelerable: data structures, algorithms, mathematics, metadata, extensions, console, and more. :)
 
 Check out the [repository.](https://github.com/ZacharyPatten/Towel)
-
-## What else?
-
-I'm currently tinkering with a flutter-esque cross-platform app development framework, named "AzuxForms". Hopefully it will work...
-![Azuxiren-Forms](./Images/Azuxiren-Forms.svg?raw=true)
