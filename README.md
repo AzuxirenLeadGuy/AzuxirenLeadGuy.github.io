@@ -1,4 +1,7 @@
 # Welcome to Azuxiren
+
+This is now a hugo project that prepares a static site.
+
 ![](./Images/Azuxiren.svg?raw=true)
 
 # What public repositories I'm working on 
