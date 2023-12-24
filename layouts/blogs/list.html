@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+    <h1>{{.Page.Title}}</h1>
+    {{ .Content }}
+
+    
+    <ul>
+        <!-- Ranges through content/posts/*.md -->
+        {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }} || Last updated on {{ .Date.Format "01 January 2006" }}</a>
+          </li>
+        {{ end }}
+      </ul>
+
+
+{{end}}

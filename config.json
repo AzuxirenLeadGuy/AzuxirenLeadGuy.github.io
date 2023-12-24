@@ -1,0 +1,18 @@
+{
+    "sectionPagesMenu": "main",
+    "baseURL": "http://example.org/",
+    "languageCode": "en-us",
+    "title": "Azuxiren",
+    "menu": {
+        "main": [
+            {
+                "name": "Home",
+                "url": "/index.html",
+                "weight": 10,
+                "pageRef": "/"
+            }
+        ]
+    },
+    "relativeURLs": true,
+    "uglyurls": true
+}

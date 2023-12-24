@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+    <h1>{{.Page.Title}}</h1>
+    <p>
+        By {{.Params.author}}
+    </p>
+    <p>
+        Posted {{ .Date.Format "January 2, 2006" }}
+        <span class="tags"> in {{ range .Params.tags }} <a class="tag" href="/tags/{{ . | urlize }}.html">{{ . }}</a> {{ end }} </span>
+    </p>
+
+    
+    {{ .Content }}
+
+{{end}}
