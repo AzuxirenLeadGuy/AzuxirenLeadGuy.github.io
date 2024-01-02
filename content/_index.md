@@ -11,12 +11,11 @@ Take your time and check out all the stuff there is to see.
 
 My real name is Ashish Jacob Sam. I like programming.
 
-This website is a place to showcase stuff that I have built. You can check out my repositories at my [github profile](https://github.com/AzuxirenLeadGuy)
+This website is a place to showcase stuff that I have built. You can check out my repositories at my GitHub profile](https://github.com/AzuxirenLeadGuy)
 
 ## What does 'AzuxirenLeadGuy' or 'Azuxiren' mean?
 
 They mean nothing. 'Azuxiren' is just a name that I started with. Every single name does not need to have a meaning. 
 
 ## Contact me
-
-Send me a mail at my official mails sam4lordjesus@outlook.com or sam.1@alumni.iitj.ac.in 
+Send me an e-mail at my official accounts sam4lordjesus@outlook.com or sam.1@alumni.iitj.ac.in 
