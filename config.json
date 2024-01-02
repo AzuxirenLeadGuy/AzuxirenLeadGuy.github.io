@@ -14,5 +14,12 @@
         ]
     },
     "relativeURLs": true,
-    "uglyurls": true
+    "uglyurls": true,
+    "markup": {
+        "goldmark": {
+            "renderer": {
+                "unsafe": true
+            }
+        }
+    }
 }

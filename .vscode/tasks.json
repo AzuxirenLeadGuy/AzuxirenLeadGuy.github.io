@@ -11,7 +11,8 @@
         {
             "label": "serve",
             "type": "shell",
-            "command": "hugo serve --cleanDestinationDir"
+            "command": "hugo serve --cleanDestinationDir",
+            "dependsOn": "build"
         }
     ]
 }
