@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>{{.Site.Title}}</title>
+    <link rel="stylesheet" type="text/css" media="all" href="/css/svg-icons.css">
+    <link rel="stylesheet" type='text/css' media='all' href="/css/webslides.css">
+</head>
+<main>
+
+    <article id="webslides">
+        {{ .Content }}
+    </article>
+    <script src="/js/webslides.js"></script>
+
+    <script>
+        window.ws = new WebSlides();
+    </script>
+</main>
+<script defer src="/js/svg-icons.js"></script>
+</html>
