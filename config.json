@@ -13,8 +13,8 @@
             }
         ]
     },
-    "relativeURLs": true,
-    "uglyurls": true,
+    "relativeURLs": false,
+    "uglyurls": false,
     "markup": {
         "goldmark": {
             "renderer": {

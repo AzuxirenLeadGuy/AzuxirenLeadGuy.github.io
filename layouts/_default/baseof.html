@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <title>{{.Site.Title}}</title>
+    <link rel="stylesheet" type="text/css" media="all" href="/css/svg-icons.css">
 </head>
 
 <header>
@@ -11,7 +12,7 @@
 </header>
 
 <main>
-    <article style="padding: 4%;border-style: groove;">
+    <article style="padding: 8%;border-style: groove;">
         {{ block "main" .}}
             
         {{ end }}
@@ -21,5 +22,5 @@
         {{ end }}
     </article>
 </main>
-
+<script defer src="/js/svg-icons.js"></script>
 </html>

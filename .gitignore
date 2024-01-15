@@ -2,3 +2,4 @@ public/
 *.lock
 .vscode/
 !.vscode/tasks.json
+content/**/*.txt
