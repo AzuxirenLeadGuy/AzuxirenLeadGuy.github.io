@@ -1,75 +1,10 @@
 <nav aria-label="Main Navigation" class="snip1226">
-  <ul>
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-    <li {{ if $currentPage.IsMenuCurrent "main" . }}class='current'{{ end }} id="{{ .Name }}">
-        <a href="{{ .URL }}" data-hover="{{ .Name }}">{{ .Name }}</a>
-      </li>
-    {{ end }}
-  </ul>
-
-
-  <style>
-.snip1226 {
-  text-align: start;
-  text-transform: uppercase;
-  font-weight: 900;
-  background-color: rgb(2, 1, 70);
-}
-.snip1226 * {
-  box-sizing: border-box;
-  -webkit-transition: all 0.35s ease;
-  transition: all 0.35s ease;
-  font-family: 'Roboto', 'San Francisco', helvetica, arial, sans-serif;
-}
-.snip1226 li {
-  display: inline-block;
-  list-style: outside none none;
-  margin: 0 2.5em;
-  overflow: hidden;
-}
-.snip1226 a {
-  padding: 0.7em 0;
-  color: rgb(230, 255, 1);
-  position: relative;
-  display: inline-block;
-  letter-spacing: 2px;
-}
-.snip1226 a:before,
-.snip1226 a:after {
-  position: absolute;
-  -webkit-transition: all 0.35s ease;
-  transition: all 0.35s ease;
-}
-.snip1226 a:before {
-  bottom: 100%;
-  display: block;
-  height: 8px;
-  width: 100%;
-  content: "";
-  background-color: rgb(4, 226, 255);
-}
-.snip1226 a:after {
-  padding: 0.3em 0;
-  position: absolute;
-  bottom: 100%;
-  left: 0;
-  content: attr(data-hover);
-  color: rgb(4, 226, 255);
-  white-space: nowrap;
-}
-.snip1226 .current a {
-  background-color: aqua;
-}
-
-.snip1226 li:hover a,
-.snip1226 .current a {
-  transform: translateY(100%);
-}
-
-html{
-  font-family: fantasy;
-}
-
-  </style>
+    <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li {{ if $currentPage.IsMenuCurrent "main" . }}class='current' {{ end }} id="{{ .Name }}">
+            <a href="{{ .URL }}" data-hover="{{ .Name }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+    </ul>
 </nav>
