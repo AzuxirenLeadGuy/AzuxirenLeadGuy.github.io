@@ -5,22 +5,19 @@
     <meta charset="utf-8" />
     <title>{{.Site.Title}}</title>
     <link rel="stylesheet" type="text/css" media="all" href="/css/svg-icons.css">
+    <script defer src="/js/svg-icons.js"></script>
+    {{partial "loadgooglefont.html" .}}
 </head>
 
 <header>
     {{partial "menu.html" .}}
 </header>
 
-<main>
-    <article style="padding: 8%;border-style: groove;">
-        {{ block "main" .}}
-            
-        {{ end }}
-        
-        {{ block "footer" .}}
-            
-        {{ end }}
+<main class="content_main">
+    <article>
+        {{ block "main" .}}{{ end }}{{ block "footer" .}}{{ end }}
     </article>
 </main>
-<script defer src="/js/svg-icons.js"></script>
+{{partial "style.html"}}
+
 </html>
