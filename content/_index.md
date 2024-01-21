@@ -2,7 +2,6 @@
 title: Home
 ---
 
-
 Hi, and welcome to this site. I call myself AzuxirenLeadGuy.
 
 Take your time and check out all the stuff there is to see.
@@ -11,7 +10,7 @@ Take your time and check out all the stuff there is to see.
 
 My real name is Ashish Jacob Sam. I like programming.
 
-This website is a place to showcase stuff that I have built. You can check out my repositories on [my GitHub profile](https://github.com/AzuxirenLeadGuy)
+This website is a place to showcase my stuff. You can check out my repositories on [my GitHub profile](https://github.com/AzuxirenLeadGuy)
 
 ## What does 'AzuxirenLeadGuy' or 'Azuxiren' mean?
 

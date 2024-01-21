@@ -5,7 +5,7 @@
     <!-- Ranges through content/posts/*.md -->
     {{ range .Pages }}
     <li>
-        <a href="{{ .RelPermalink }}"> {{.Page.Params.id}} {{ .LinkTitle }} </a>
+        <a href="{{ .RelPermalink }}" {{ if isset .Params "newtab" }} target="_blank" {{ end }}> {{.Page.Params.id}} {{ .LinkTitle }} </a>
     </li>
     {{ end }}
 </ol>
