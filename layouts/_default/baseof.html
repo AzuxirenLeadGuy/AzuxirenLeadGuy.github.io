@@ -6,6 +6,7 @@
     <title>{{.Site.Title}}</title>
     <script defer src="/js/svg-icons.js"></script>
     {{partial "loadgooglefont.html" .}}
+    {{ block "scripts" .}}{{ end }}
 </head>
 
 <header>
