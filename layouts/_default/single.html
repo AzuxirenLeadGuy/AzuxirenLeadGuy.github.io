@@ -1,3 +1,30 @@
+{{define "scripts"}}
+{{ if .Params.usemermaid }}<script type="module">import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';</script>{{ end }}
+{{ if .Params.usemath}}
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<!-- this part configures it -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+{{end}}
+{{ if .Params.usegraph }}
+<script src="https://code.highcharts.com/highcharts.js"></script>
+{{ end }}
+{{end}}
+
 {{ define "main" }}
 <h1>{{.Page.Title}}</h1>
 <p>
@@ -5,5 +32,4 @@
     <span class="tags"> in {{ range .Params.tags }} <a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end}} </span>
 </p>
 {{ .Content }}
-<script type="module">import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';</script>
 {{end}}
